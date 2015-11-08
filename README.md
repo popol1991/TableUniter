@@ -3,13 +3,14 @@
 ## Introduction
 
 TableUniter project has two components:
+
 1. Identify as many as possible units of measurements from the Web and store them structurely for machine processing;
 2. Given a table in XML format, recognize the unit of each cell in it;
 
 ## Example
 
 Given a table as shown below, the ultimate goal of this project is, with the help of other contextual information of the table of
-course, to recognize that the unit of the first column is millimeter, second kilo-electronvolt, third Kelvin, and forth constant.
+course, to recognize that the unit of the first column is millimeter, second kilo-electronvolt, third Kelvin, and forth constant.  Meantime, data/units.json structurely shows a list of units.
 
 | Distance (mm) | kT (keV) | T (K) | μ   |
 | ------------- | -------- | ----- | --- |
