@@ -1,0 +1,106 @@
+{
+	"energy": {
+		"name": "Energy",
+		"base-unit": "Joule",
+		"units": [
+			{
+				"name": "British thermal unit",
+				"symbol": ["BTU", "Btu"],
+				"in-base-unit": {
+					"multiplier": 1055.056,
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Calorie",
+				"symbol": "cal",
+				"in-base-unit": {
+					"multiplier": 4.184,
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Electronvolt",
+				"symbol": ["eV", "ev"],
+				"in-base-unit": {
+					"multiplier": 1.60217653e-19,
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Joule",
+				"symbol": "J",
+				"in-base-unit": {
+					"multiplier": 1,
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Kilowatt hour",
+				"symbol": ["kW-h", "kW h", "kWh"],
+				"in-base-unit": {
+					"multiplier": 3600000,
+					"zero-point": 0
+				}
+			}
+		]
+	},
+	"luminous-intensity": {
+		"name": "Luminous Intensity",
+		"base-unit": "Candela",
+		"units": [
+			{
+				"name": "Candela",
+				"symbol": "cd",
+				"in-base-unit": {
+					"multiplier": 1,
+					"zero-point": 0
+				}
+			}
+		]
+	},
+	"luminous-flux": {
+		"name": "Luminous Flux",
+		"base-unit": "Lumen",
+		"units": [
+			{
+				"name": "Lumen",
+				"symbol": "lm",
+				"in-base-unit": {
+					"multiplier": 1,
+					"zero-point": 0
+				}
+			}
+		]
+	},
+	"temperature": {
+		"name": "Temperature",
+		"base-unit": "Kelvin",
+		"units": [
+			{
+				"name": "Degree Celsius",
+				"symbol": "°C",
+				"in-base-unit": {
+					"multiplier": 1,
+					"zero-point": 273.15
+				}
+			},
+			{
+				"name": "Degree Fahrenheit",
+				"symbol": "°F",
+				"in-base-unit": {
+					"multiplier": 0.555555555,
+					"zero-point": 255.3722222,
+				}
+			},
+			{
+				"name": "Kelvin",
+				"symbol": "K",
+				"in-base-unit": {
+					"multiplier": 1,
+					"zero-point": 0
+				}
+			}
+		]
+	}
+}
