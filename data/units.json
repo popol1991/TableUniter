@@ -1786,6 +1786,476 @@
 				}
 			}
 		]
+	},
+	"length": {
+		"name": "Length", 
+		"base-unit": "Meter", 
+		"units": [
+			{
+				"name": "Astronomical unit",
+				"symbol": ["AU", "au", "a.u.","ua"],
+				"in-base-unit": {
+					"multiplier": 149597870691.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Centimeter", 
+				"symbol": ["cm"],
+				"in-base-unit": {
+					"multiplier": 0.01, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Furlong", 
+				"in-base-unit": {
+					"multiplier": 201.168, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Geographical mile", 
+				"in-base-unit": {
+					"multiplier": 1855.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Inch", 
+				"symbol": ["in"],
+				"in-base-unit": {
+					"multiplier": 0.0254, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Meter", 
+				"symbol": ["m"],
+				"in-base-unit": {
+					"multiplier": 1.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Mile",
+				"symbol": ["mi"], 
+				"in-base-unit": {
+					"multiplier": 1609.344, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Micrometer", 
+				"symbol": ["micro"],
+				"in-base-unit": {
+					"multiplier": 1e-06, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Nautical mile",
+				"symbol": ["M", "NM", "nmi"], 
+				"in-base-unit": {
+					"multiplier": 1852.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cable length", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Parsec", 
+				"symbol": ["pc"],
+				"in-base-unit": {
+					"multiplier": 3.08567758131e+16, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cubit", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Yard", 
+				"symbol": ["yd"],
+				"in-base-unit": {
+					"multiplier": 0.9144, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Kilometer",
+				"symbol": ["km"], 
+				"in-base-unit": {
+					"multiplier": 1000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Millimeter", 
+				"symbol": ["mm"],
+				"in-base-unit": {
+					"multiplier": 0.001, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Knot", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Earth radius",
+				"in-base-unit": {
+					"multiplier": 6378137.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Smoot", 
+				"in-base-unit": {
+					"multiplier": 1.7, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Angstrom", 
+				"symbol": ["Å"],
+				"in-base-unit": {
+					"multiplier": 1e-10, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Fathom", 
+				"symbol": ["ftm"],
+				"in-base-unit": {
+					"multiplier": 1.8288, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Bohr radius",
+				"symbol": ["a_0"], 
+				"in-base-unit": {
+					"multiplier": 5.291772108e-11, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Lunar distance", 
+				"symbol": ["LD"],
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Light-second", 
+				"in-base-unit": {
+					"multiplier": 299792458.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Foot", 
+				"symbol": ["ft"],
+				"in-base-unit": {
+					"multiplier": 0.3048, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Hand", 
+				"in-base-unit": {
+					"multiplier": 0.1016, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Parasang", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "League", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Decimetre", 
+				"symbol": ["dm"],
+				"in-base-unit": {
+					"multiplier": 0.1, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Decametre", 
+				"symbol": ["dam"],
+				"in-base-unit": {
+					"multiplier": 10.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Shaku", 
+				"symbol": ["尺"],
+				"in-base-unit": {
+					"multiplier": 0.303, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cana", 
+				"in-base-unit": {
+					"multiplier": 1.5708, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Nail", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Solar radius", 
+				"symbol": ["R☉"],
+				"in-base-unit": {
+					"multiplier": 696000000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Alen", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Rod", 
+				"in-base-unit": {
+					"multiplier": 5.029, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Megametre", 
+				"symbol": ["Mm"],
+				"in-base-unit": {
+					"multiplier": 1000000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Hectometre", 
+				"symbol": ["hm"],
+				"in-base-unit": {
+					"multiplier": 100.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Light-year", 
+				"symbol": ["ly"],
+				"in-base-unit": {
+					"multiplier": 9460730472580000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Megalithic yard",
+				"symbol": ["MY"],
+				"in-base-unit": {
+					"multiplier": 0.8297, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Chain", 
+				"symbol": ["ch"],
+				"in-base-unit": {
+					"multiplier": 20.117, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Light hour", 
+				"in-base-unit": {
+					"multiplier": 1079252848800.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Planck length", 
+				"symbol": ["l_p"],
+				"in-base-unit": {
+					"multiplier": 1.6e-35, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Point", 
+				"in-base-unit": {
+					"multiplier": 0.000352777777778, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Light week", 
+				"in-base-unit": {
+					"multiplier": 181314478598000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Light day", 
+				"in-base-unit": {
+					"multiplier": 25902068371200.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Light minute", 
+				"in-base-unit": {
+					"multiplier": 17987547480.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Light month", 
+				"in-base-unit": {
+					"multiplier": 777062051136000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Span", 
+				"in-base-unit": {
+					"multiplier": 0.2286, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Li", 
+				"symbol": ["里"],
+				"in-base-unit": {
+					"multiplier": 500.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Digit", 
+				"in-base-unit": {
+					"multiplier": 0.01905, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Finger", 
+				"in-base-unit": {
+					"multiplier": 0.022225, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Palm", 
+				"in-base-unit": {
+					"multiplier": 0.0762, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Shaftment", 
+				"in-base-unit": {
+					"multiplier": 0.1524, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Ell", 
+				"in-base-unit": {
+					"multiplier": 1.143, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Link", 
+				"symbol": ["l.", "li.", "link."],
+				"in-base-unit": {
+					"multiplier": 0.201, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Arpent", 
+				"in-base-unit": {
+					"multiplier": 58.47, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Siriometer", 
+				"in-base-unit": {
+					"multiplier": 9.223372036854776e+16, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Spat", 
+				"in-base-unit": {
+					"multiplier": 1000000000000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Beard-second", 
+				"in-base-unit": {
+					"multiplier": 5e-09, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Toise", 
+				"symbol": ["T"],
+				"in-base-unit": {
+					"multiplier": 1.949, 
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Thousandth of an inch", 
+				"symbol": ["mil"],
+				"in-base-unit": {
+					"multiplier": 0.0000254, 
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Picometre", 
+				"symbol": ["pm"],
+				"in-base-unit": {
+					"multiplier": 1e-12, 
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Nanometre", 
+				"symbol": ["nm"],
+				"in-base-unit": {
+					"multiplier": 1e-9, 
+					"zero-point": 0
+				}
+			}
+		]
 	}
-
 }
