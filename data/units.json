@@ -1144,6 +1144,373 @@
 				}
 			}
 		]
+	},
+	"volume": {
+		"name": "Volume", 
+		"base-unit": "Cubic metre", 
+		"units": [
+			{
+				"name": "Gallon (US)", 
+				"symbol": ["gal"],
+				"in-base-unit": {
+					"multiplier": 0.003785411784, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Hogshead",
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Liter", 
+				"symbol": ["l", "L"],
+				"in-base-unit": {
+					"multiplier": 0.001, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Teaspoon", 
+				"in-base-unit": {
+					"multiplier": 5e-06, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Tablespoon", 
+				"in-base-unit": {
+					"multiplier": 1.5e-05, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Peck (Imperial)", 
+				"in-base-unit": {
+					"multiplier": 0.00727373, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Dram", 
+				"symbol": ["ℨ"],
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cubic inch", 
+				"in-base-unit": {
+					"multiplier": 1.6387064e-05, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Faggot", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Pint (US)", 
+				"symbol": ["pt", "p"],
+				"in-base-unit": {
+					"multiplier": 0.000473176473, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cubic foot", 
+				"in-base-unit": {
+					"multiplier": 0.028316846592, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Quart (US)", 
+				"in-base-unit": {
+					"multiplier": 0.000946352946, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Fluid ounce (US)", 
+				"symbol": ["fl oz", "fl. oz.", "oz. fl."],
+				"in-base-unit": {
+					"multiplier": 2.95735297e-05, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Dessert spoon", 
+				"in-base-unit": {
+					"multiplier": 1e-05, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Gill", 
+				"in-base-unit": {
+					"multiplier": 0.0001182941, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cubic mile", 
+				"symbol": ["mi"],
+				"in-base-unit": {
+					"multiplier": 4168181825.44, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Jigger", 
+				"in-base-unit": {
+					"multiplier": 4.43602943e-05, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Mutchkin", 
+				"in-base-unit": {
+					"multiplier": 8.48e-07, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Chopin", 
+				"in-base-unit": {
+					"multiplier": 0.000848, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Milliliter", 
+				"symbol": ["ml", "mL"],
+				"in-base-unit": {
+					"multiplier": 1e-06, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Gallon (Imperial)", 
+				"in-base-unit": {
+					"multiplier": 0.00454609, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Fluid ounce (imperial)", 
+				"in-base-unit": {
+					"multiplier": 2.84130625e-05, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Pint (Imperial)", 
+				"in-base-unit": {
+					"multiplier": 0.00056826125, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Quart (Imperial)", 
+				"in-base-unit": {
+					"multiplier": 0.0011365225, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cubic centimetre", 
+				"symbol": ["cm³"],
+				"in-base-unit": {
+					"multiplier": 1e-06, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Joug", 
+				"in-base-unit": {
+					"multiplier": 0.001696, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cubic angstrom", 
+				"symbol": ["Å³"],
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Gallon (Scots)", 
+				"in-base-unit": {
+					"multiplier": 0.013568, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cubic kilometer", 
+				"symbol": ["km³"],
+				"in-base-unit": {
+					"multiplier": 1000000000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Hectoliter",
+				"symbol": ["hl"], 
+				"in-base-unit": {
+					"multiplier": 0.1, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Fluid Dram US", 
+				"in-base-unit": {
+					"multiplier": 3.6966912e-06, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Tablespoon (AU)", 
+				"in-base-unit": {
+					"multiplier": 2e-05, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cup (Imperial)", 
+				"in-base-unit": {
+					"multiplier": 0.0002841306, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cup (Metric)", 
+				"in-base-unit": {
+					"multiplier": 0.00025, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cup (US)", 
+				"in-base-unit": {
+					"multiplier": 0.00024, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cup (Japan)", 
+				"in-base-unit": {
+					"multiplier": 0.0002, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Pint (US dry)", 
+				"in-base-unit": {
+					"multiplier": 0.0005506104, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Pint (metric)", 
+				"in-base-unit": {
+					"multiplier": 0.0005, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Quart (US dry)", 
+				"in-base-unit": {
+					"multiplier": 0.0011012107, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Gallon", 
+				"symbol": ["G"],
+				"in-base-unit": {
+					"multiplier": 0.0044048837, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Gill (Imperial)", 
+				"in-base-unit": {
+					"multiplier": 0.0001420653, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Centiliter",
+				"symbol": ["cl", "cL"], 
+				"in-base-unit": {
+					"multiplier": 1e-05, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Deciliter",
+				"symbol": ["dl", "dL"], 
+				"in-base-unit": {
+					"multiplier": 0.0001, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Peck (US)", 
+				"in-base-unit": {
+					"multiplier": 0.0090921, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Bushel (US)", 
+				"in-base-unit": {
+					"multiplier": 0.0352390701, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Bushel (Imperial)", 
+				"in-base-unit": {
+					"multiplier": 0.03636872, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Beer barrel (US)", 
+				"in-base-unit": {
+					"multiplier": 0.117347765, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Beer barrel (UK)", 
+				"in-base-unit": {
+					"multiplier": 0.163659308, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Oil barrel", 
+				"in-base-unit": {
+					"multiplier": 0.158987294928, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cubic metre", 
+				"symbol": ["m³"], 
+				"in-base-unit": {
+					"multiplier": 1.0, 
+					"zero-point": 0
+				}
+			}
+		]
 	}
-	
+
 }
