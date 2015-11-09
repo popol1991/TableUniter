@@ -622,90 +622,90 @@
 			}
 		]
 	},
-    "power": {
-	    "name": "Power", 
-	    "base-unit": "Watt", 
-	    "units": [
-	        {
-	            "name": "Horsepower", 
-	            "symbol": ["hp", "HP"],
-	            "in-base-unit": {
-	                "multiplier": 735.49875, 
-	                "zero-point": 0
-	            }
-	        }, 
-	        {
-	            "name": "Watt", 
-	            "symbol": ["W"],
-	            "in-base-unit": {
-	                "multiplier": 1.0, 
-	                "zero-point": 0
-	            }
-	        }, 
-	        {
-	            "name": "Solar luminosity", 
-	            "symbol": ["L☉"],
-	            "in-base-unit": {
-	                "multiplier": 3.827e+26, 
-	                "zero-point": 0
-	            }
-	        }, 
-	        {
-	            "name": "Mechanical horsepower", 
-	            "in-base-unit": {
-	                "multiplier": 745.699871582, 
-	                "zero-point": 0
-	            }
-	        }, 
-	        {
-	            "name": "Metric horsepower", 
-	            "symbol": ["PS", "CV", "pk", "ch"],
-	            "in-base-unit": {
-	                "multiplier": 735.49875, 
-	                "zero-point": 0
-	            }
-	        }, 
-	        {
-	            "name": "Boiler horsepower", 
-	            "symbol": ["BHP"],
-	            "in-base-unit": {
-	                "multiplier": 9809.5, 
-	                "zero-point": 0
-	            }
-	        }, 
-	        {
-	            "name": "Electrical horsepower", 
-	            "symbol": ["HP", "hp"],
-	            "in-base-unit": {
-	                "multiplier": 746.0, 
-	                "zero-point": 0
-	            }
-	        }, 
-	        {
-	            "name": "Kilowatt", 
-	           	"symbol": ["kWh", "kW. · h", "kW h"],
-	            "in-base-unit": {
-	                "multiplier": 1000.0, 
-	                "zero-point": 0
-	            }
-	        }, 
-	        {
-	            "name": "Milliwatt", 
-	            "symbol": ["mW"],
-	            "in-base-unit": {
-	                "multiplier": 0.001, 
-	                "zero-point": 0
-	            }
-	        }, 
-	        {
-	            "name": "Megawatt", 
-	            "symbol": ["MW"],
-	            "in-base-unit": {
-	                "multiplier": 1000000.0, 
-	                "zero-point": 0
-	            }
-	        }
-	    ]
+	"power": {
+		"name": "Power", 
+		"base-unit": "Watt", 
+		"units": [
+			{
+				"name": "Horsepower", 
+				"symbol": ["hp", "HP"],
+				"in-base-unit": {
+					"multiplier": 735.49875, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Watt", 
+				"symbol": ["W"],
+				"in-base-unit": {
+					"multiplier": 1.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Solar luminosity", 
+				"symbol": ["L☉"],
+				"in-base-unit": {
+					"multiplier": 3.827e+26, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Mechanical horsepower", 
+				"in-base-unit": {
+					"multiplier": 745.699871582, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Metric horsepower", 
+				"symbol": ["PS", "CV", "pk", "ch"],
+				"in-base-unit": {
+					"multiplier": 735.49875, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Boiler horsepower", 
+				"symbol": ["BHP"],
+				"in-base-unit": {
+					"multiplier": 9809.5, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Electrical horsepower", 
+				"symbol": ["HP", "hp"],
+				"in-base-unit": {
+					"multiplier": 746.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Kilowatt", 
+				"symbol": ["kWh", "kW. · h", "kW h"],
+				"in-base-unit": {
+					"multiplier": 1000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Milliwatt", 
+				"symbol": ["mW"],
+				"in-base-unit": {
+					"multiplier": 0.001, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Megawatt", 
+				"symbol": ["MW"],
+				"in-base-unit": {
+					"multiplier": 1000000.0, 
+					"zero-point": 0
+				}
+			}
+		]
 	}
 	
 }
