@@ -706,6 +706,1556 @@
 				}
 			}
 		]
+	},
+	"pressure": {
+		"name": "Pressure", 
+		"base-unit": "Pascal", 
+		"units": [
+			{
+				"name": "Pound-force per square inch", 
+				"symbol": ["psi"", lbf/in²", "lbf/in²"],
+				"in-base-unit": {
+					"multiplier": 6894.75729, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Torr", 
+				"symbol": ["Torr"],
+				"in-base-unit": {
+					"multiplier": 133.3223684, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Pascal",
+				"symbol": ["Pa"], 
+				"in-base-unit": {
+					"multiplier": 1.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Bar", 
+				"symbol": ["bar"],
+				"in-base-unit": {
+					"multiplier": 100000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Atmosphere", 
+				"symbol": ["atm"],
+				"in-base-unit": {
+					"multiplier": 101325.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Centimetre of water", 
+				"symbol": ["cmH2O", "cm H2O"],
+				"in-base-unit": {
+					"multiplier": 98.0638, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Copper units of pressure", 
+				"symbol": ["CUP"],
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Barye",
+				"symbol": ["Ba", "barad", "barrie", "bary", "baryd", "baryed", "barie"], 
+				"in-base-unit": {
+					"multiplier": 0.1, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Pièze", 
+				"symbol": ["pz"],
+				"in-base-unit": {
+					"multiplier": 1000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Technical atmosphere", 
+				"symbol": ["at"],
+				"in-base-unit": {
+					"multiplier": 98066.5, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Inch of mercury", 
+				"symbol": ["inHg"],
+				"in-base-unit": {
+					"multiplier": 3386.389, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Decibars", 
+				"symbol": ["dbar"],
+				"in-base-unit": {
+					"multiplier": 10000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Kilogram-force per square centimetre", 
+				"symbol": ["kgf/cm"],
+				"in-base-unit": {
+					"multiplier": 98066.5, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Megapascal", 
+				"symbol": ["Mpa"],
+				"in-base-unit": {
+					"multiplier": 1000000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Millibar", 
+				"symbol": ["mbar", "mb"],
+				"in-base-unit": {
+					"multiplier": 100.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Gigapascal",
+				"symbol": ["Gpa"], 
+				"in-base-unit": {
+					"multiplier": 1000000000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "KiloNewton per metre squared", 
+				"symbol": ["kN/m²"],
+				"in-base-unit": {
+					"multiplier": 1000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Kilopound-force per square inch", 
+				"symbol": ["psi", "lbf/in²", "lb_f/in²", "lb_f/sq in", "lbf/sq in"],
+				"in-base-unit": {
+					"multiplier": 6894757.29, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Kilopascal",
+				"symbol": ["kN/m²"], 
+				"in-base-unit": {
+					"multiplier": 1000.0, 
+					"zero-point": 0
+				}
+			}
+		]
+	},
+	"mass": {
+		"name": "Mass", 
+		"base-unit": "Kilogram", 
+		"units": [
+			{
+				"name": "Carat", 
+				"symbol": ["ct"], 
+				"in-base-unit": {
+					"multiplier": 0.0002, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Kilogram",
+				"symbol": ["kg"],  
+				"in-base-unit": {
+					"multiplier": 1.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Pound", 
+				"symbol": ["lb", "lbm", "℔" ], 
+				"in-base-unit": {
+					"multiplier": 0.45359237, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Tonne",
+				"symbol": ["t"], 
+				"in-base-unit": {
+					"multiplier": 1000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Atomic mass unit", 
+				"symbol": ["u", "Da"],
+				"in-base-unit": {
+					"multiplier": 1.660538782e-27, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Tael", 
+				"in-base-unit": {
+					"multiplier": 0.03779936375, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Grain", 
+				"in-base-unit": {
+					"multiplier": 6.479891e-05, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Planck mass", 
+				"symbol": ["mP"],
+				"in-base-unit": {
+					"multiplier": 2.17645e-08, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Solar mass", 
+				"symbol": ["M☉"],
+				"in-base-unit": {
+					"multiplier": 1.9891e+30, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Ounce", 
+				"symbol": ["oz"],
+				"in-base-unit": {
+					"multiplier": 0.028349523125, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Pennyweight",
+				"symbol": ["dwt"], 
+				"in-base-unit": {
+					"multiplier": 0.00155517384, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Long ton", 
+				"in-base-unit": {
+					"multiplier": 1016.0469088, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Hundredweight",
+				"symbol": ["cwt"],  
+				"in-base-unit": {
+					"multiplier": 50.80234544, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Short ton", 
+				"in-base-unit": {
+					"multiplier": 907.18474, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Stone", 
+				"symbol": ["st"], 
+				"in-base-unit": {
+					"multiplier": 6.35029318, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Dram", 
+				"symbol": ["ℨ"], 
+				"in-base-unit": {
+					"multiplier": 0.001771845, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Catty", 
+				"symbol": ["斤"],
+				"in-base-unit": {
+					"multiplier": 0.60478982, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Candareen", 
+				"symbol": ["分"],
+				"in-base-unit": {
+					"multiplier": 0.0003779936375, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Mace", 
+				"in-base-unit": {
+					"multiplier": 0.003779936375, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Grave", 
+				"in-base-unit": {
+					"multiplier": 1.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Milligram", 
+				"symbol": ["mg"],
+				"in-base-unit": {
+					"multiplier": 1e-06, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Gram",
+				"symbol": ["g"], 
+				"in-base-unit": {
+					"multiplier": 0.001, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Microgram", 
+				"symbol": ["µg"],
+				"in-base-unit": {
+					"multiplier": 1e-09, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Picul", 
+				"in-base-unit": {
+					"multiplier": 60.478982, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cash", 
+				"in-base-unit": {
+					"multiplier": 3.779936375e-06, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Stone", 
+				"symbol": ["石"],
+				"in-base-unit": {
+					"multiplier": 6.35, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Jupiter mass", 
+				"symbol": ["MJ", "MJUP"],
+				"in-base-unit": {
+					"multiplier": 1.8986e+27, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Long quarter", 
+				"in-base-unit": {
+					"multiplier": 12.70058636, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cental", 
+				"in-base-unit": {
+					"multiplier": 45.359237, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Troy ounce", 
+				"symbol": ["oz t"],
+				"in-base-unit": {
+					"multiplier": 0.0311034768, 
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Troy pound", 
+				"in-base-unit": {
+					"multiplier": 0.3732417216, 
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Electron rest mass", 
+				"symbol": ["m_e"],
+				"in-base-unit": {
+					"multiplier": 9.1093826e-31, 
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Short quarter", 
+				"in-base-unit": {
+					"multiplier": 11.33980925, 
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Earth mass", 
+				"symbol": ["M⊕"],
+				"in-base-unit": {
+					"multiplier": 5.9736e+28, 
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Planetary mass", 
+				"in-base-unit": {
+					"multiplier": 7.3477e+22, 
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "MeV/c²", 
+				"symbol": ["MeV/c²"],
+				"in-base-unit": {
+					"multiplier": 1.604396e-27, 
+					"zero-point": 0
+				}
+			}
+		]
+	},
+	"volume": {
+		"name": "Volume", 
+		"base-unit": "Cubic metre", 
+		"units": [
+			{
+				"name": "Gallon (US)", 
+				"symbol": ["gal"],
+				"in-base-unit": {
+					"multiplier": 0.003785411784, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Hogshead",
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Liter", 
+				"symbol": ["l", "L"],
+				"in-base-unit": {
+					"multiplier": 0.001, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Teaspoon", 
+				"in-base-unit": {
+					"multiplier": 5e-06, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Tablespoon", 
+				"in-base-unit": {
+					"multiplier": 1.5e-05, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Peck (Imperial)", 
+				"in-base-unit": {
+					"multiplier": 0.00727373, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Dram", 
+				"symbol": ["ℨ"],
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cubic inch", 
+				"in-base-unit": {
+					"multiplier": 1.6387064e-05, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Faggot", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Pint (US)", 
+				"symbol": ["pt", "p"],
+				"in-base-unit": {
+					"multiplier": 0.000473176473, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cubic foot", 
+				"in-base-unit": {
+					"multiplier": 0.028316846592, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Quart (US)", 
+				"in-base-unit": {
+					"multiplier": 0.000946352946, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Fluid ounce (US)", 
+				"symbol": ["fl oz", "fl. oz.", "oz. fl."],
+				"in-base-unit": {
+					"multiplier": 2.95735297e-05, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Dessert spoon", 
+				"in-base-unit": {
+					"multiplier": 1e-05, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Gill", 
+				"in-base-unit": {
+					"multiplier": 0.0001182941, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cubic mile", 
+				"symbol": ["mi"],
+				"in-base-unit": {
+					"multiplier": 4168181825.44, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Jigger", 
+				"in-base-unit": {
+					"multiplier": 4.43602943e-05, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Mutchkin", 
+				"in-base-unit": {
+					"multiplier": 8.48e-07, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Chopin", 
+				"in-base-unit": {
+					"multiplier": 0.000848, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Milliliter", 
+				"symbol": ["ml", "mL"],
+				"in-base-unit": {
+					"multiplier": 1e-06, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Gallon (Imperial)", 
+				"in-base-unit": {
+					"multiplier": 0.00454609, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Fluid ounce (imperial)", 
+				"in-base-unit": {
+					"multiplier": 2.84130625e-05, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Pint (Imperial)", 
+				"in-base-unit": {
+					"multiplier": 0.00056826125, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Quart (Imperial)", 
+				"in-base-unit": {
+					"multiplier": 0.0011365225, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cubic centimetre", 
+				"symbol": ["cm³"],
+				"in-base-unit": {
+					"multiplier": 1e-06, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Joug", 
+				"in-base-unit": {
+					"multiplier": 0.001696, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cubic angstrom", 
+				"symbol": ["Å³"],
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Gallon (Scots)", 
+				"in-base-unit": {
+					"multiplier": 0.013568, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cubic kilometer", 
+				"symbol": ["km³"],
+				"in-base-unit": {
+					"multiplier": 1000000000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Hectoliter",
+				"symbol": ["hl"], 
+				"in-base-unit": {
+					"multiplier": 0.1, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Fluid Dram US", 
+				"in-base-unit": {
+					"multiplier": 3.6966912e-06, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Tablespoon (AU)", 
+				"in-base-unit": {
+					"multiplier": 2e-05, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cup (Imperial)", 
+				"in-base-unit": {
+					"multiplier": 0.0002841306, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cup (Metric)", 
+				"in-base-unit": {
+					"multiplier": 0.00025, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cup (US)", 
+				"in-base-unit": {
+					"multiplier": 0.00024, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cup (Japan)", 
+				"in-base-unit": {
+					"multiplier": 0.0002, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Pint (US dry)", 
+				"in-base-unit": {
+					"multiplier": 0.0005506104, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Pint (metric)", 
+				"in-base-unit": {
+					"multiplier": 0.0005, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Quart (US dry)", 
+				"in-base-unit": {
+					"multiplier": 0.0011012107, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Gallon", 
+				"symbol": ["G"],
+				"in-base-unit": {
+					"multiplier": 0.0044048837, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Gill (Imperial)", 
+				"in-base-unit": {
+					"multiplier": 0.0001420653, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Centiliter",
+				"symbol": ["cl", "cL"], 
+				"in-base-unit": {
+					"multiplier": 1e-05, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Deciliter",
+				"symbol": ["dl", "dL"], 
+				"in-base-unit": {
+					"multiplier": 0.0001, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Peck (US)", 
+				"in-base-unit": {
+					"multiplier": 0.0090921, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Bushel (US)", 
+				"in-base-unit": {
+					"multiplier": 0.0352390701, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Bushel (Imperial)", 
+				"in-base-unit": {
+					"multiplier": 0.03636872, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Beer barrel (US)", 
+				"in-base-unit": {
+					"multiplier": 0.117347765, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Beer barrel (UK)", 
+				"in-base-unit": {
+					"multiplier": 0.163659308, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Oil barrel", 
+				"in-base-unit": {
+					"multiplier": 0.158987294928, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cubic metre", 
+				"symbol": ["m³"], 
+				"in-base-unit": {
+					"multiplier": 1.0, 
+					"zero-point": 0
+				}
+			}
+		]
+	},
+	"frequency": {
+		"name": "Frequency", 
+		"base-unit": "Hertz", 
+		"units": [
+			{
+				"name": "Hertz", 
+				"symbol": ["Hz"],
+				"in-base-unit": {
+					"multiplier": 1.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Year", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Decade", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Weekly newspaper", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Daily", 
+				"in-base-unit": {
+					"multiplier": 1.15740740741e-05, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Once every two months", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Monthly", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Quarterly", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Biweekly", 
+				"in-base-unit": {
+					"multiplier": 8.27e-07, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Yearly", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Weekly", 
+				"in-base-unit": {
+					"multiplier": 1.653e-06, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Semiannually", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Megahertz", 
+				"symbol": ["MHz"],
+				"in-base-unit": {
+					"multiplier": 1000000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Once every two years", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Semi-Monthly", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Gigahertz",
+				"symbol": ["GHz"], 
+				"in-base-unit": {
+					"multiplier": 1000000000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Tri-Weekly", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Semi-Weekly", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Every Year", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Hourly", 
+				"in-base-unit": {
+					"multiplier": 0.000277777777778, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Every 2 Years", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Every 4 Years", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Triennial", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Yarly", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Triannual", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Quadrennial", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "As needed", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Every 28 years", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "bi-monthly", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Quintennial", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "bimonthly", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Kilohertz", 
+				"in-base-unit": {
+					"multiplier": 1000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "biannually", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Every 5 years", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Triannually", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Raymond Montly", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Three times a week", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Six times a week", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Five times a week", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Biannual", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "every three weeks", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "6 Months", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Annual", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}
+		]
+	},
+	"length": {
+		"name": "Length", 
+		"base-unit": "Meter", 
+		"units": [
+			{
+				"name": "Astronomical unit",
+				"symbol": ["AU", "au", "a.u.","ua"],
+				"in-base-unit": {
+					"multiplier": 149597870691.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Centimeter", 
+				"symbol": ["cm"],
+				"in-base-unit": {
+					"multiplier": 0.01, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Furlong", 
+				"in-base-unit": {
+					"multiplier": 201.168, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Geographical mile", 
+				"in-base-unit": {
+					"multiplier": 1855.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Inch", 
+				"symbol": ["in"],
+				"in-base-unit": {
+					"multiplier": 0.0254, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Meter", 
+				"symbol": ["m"],
+				"in-base-unit": {
+					"multiplier": 1.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Mile",
+				"symbol": ["mi"], 
+				"in-base-unit": {
+					"multiplier": 1609.344, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Micrometer", 
+				"symbol": ["micro"],
+				"in-base-unit": {
+					"multiplier": 1e-06, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Nautical mile",
+				"symbol": ["M", "NM", "nmi"], 
+				"in-base-unit": {
+					"multiplier": 1852.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cable length", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Parsec", 
+				"symbol": ["pc"],
+				"in-base-unit": {
+					"multiplier": 3.08567758131e+16, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cubit", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Yard", 
+				"symbol": ["yd"],
+				"in-base-unit": {
+					"multiplier": 0.9144, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Kilometer",
+				"symbol": ["km"], 
+				"in-base-unit": {
+					"multiplier": 1000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Millimeter", 
+				"symbol": ["mm"],
+				"in-base-unit": {
+					"multiplier": 0.001, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Knot", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Earth radius",
+				"in-base-unit": {
+					"multiplier": 6378137.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Smoot", 
+				"in-base-unit": {
+					"multiplier": 1.7, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Angstrom", 
+				"symbol": ["Å"],
+				"in-base-unit": {
+					"multiplier": 1e-10, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Fathom", 
+				"symbol": ["ftm"],
+				"in-base-unit": {
+					"multiplier": 1.8288, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Bohr radius",
+				"symbol": ["a_0"], 
+				"in-base-unit": {
+					"multiplier": 5.291772108e-11, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Lunar distance", 
+				"symbol": ["LD"],
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Light-second", 
+				"in-base-unit": {
+					"multiplier": 299792458.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Foot", 
+				"symbol": ["ft"],
+				"in-base-unit": {
+					"multiplier": 0.3048, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Hand", 
+				"in-base-unit": {
+					"multiplier": 0.1016, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Parasang", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "League", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Decimetre", 
+				"symbol": ["dm"],
+				"in-base-unit": {
+					"multiplier": 0.1, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Decametre", 
+				"symbol": ["dam"],
+				"in-base-unit": {
+					"multiplier": 10.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Shaku", 
+				"symbol": ["尺"],
+				"in-base-unit": {
+					"multiplier": 0.303, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cana", 
+				"in-base-unit": {
+					"multiplier": 1.5708, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Nail", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Solar radius", 
+				"symbol": ["R☉"],
+				"in-base-unit": {
+					"multiplier": 696000000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Alen", 
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Rod", 
+				"in-base-unit": {
+					"multiplier": 5.029, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Megametre", 
+				"symbol": ["Mm"],
+				"in-base-unit": {
+					"multiplier": 1000000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Hectometre", 
+				"symbol": ["hm"],
+				"in-base-unit": {
+					"multiplier": 100.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Light-year", 
+				"symbol": ["ly"],
+				"in-base-unit": {
+					"multiplier": 9460730472580000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Megalithic yard",
+				"symbol": ["MY"],
+				"in-base-unit": {
+					"multiplier": 0.8297, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Chain", 
+				"symbol": ["ch"],
+				"in-base-unit": {
+					"multiplier": 20.117, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Light hour", 
+				"in-base-unit": {
+					"multiplier": 1079252848800.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Planck length", 
+				"symbol": ["l_p"],
+				"in-base-unit": {
+					"multiplier": 1.6e-35, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Point", 
+				"in-base-unit": {
+					"multiplier": 0.000352777777778, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Light week", 
+				"in-base-unit": {
+					"multiplier": 181314478598000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Light day", 
+				"in-base-unit": {
+					"multiplier": 25902068371200.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Light minute", 
+				"in-base-unit": {
+					"multiplier": 17987547480.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Light month", 
+				"in-base-unit": {
+					"multiplier": 777062051136000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Span", 
+				"in-base-unit": {
+					"multiplier": 0.2286, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Li", 
+				"symbol": ["里"],
+				"in-base-unit": {
+					"multiplier": 500.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Digit", 
+				"in-base-unit": {
+					"multiplier": 0.01905, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Finger", 
+				"in-base-unit": {
+					"multiplier": 0.022225, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Palm", 
+				"in-base-unit": {
+					"multiplier": 0.0762, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Shaftment", 
+				"in-base-unit": {
+					"multiplier": 0.1524, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Ell", 
+				"in-base-unit": {
+					"multiplier": 1.143, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Link", 
+				"symbol": ["l.", "li.", "link."],
+				"in-base-unit": {
+					"multiplier": 0.201, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Arpent", 
+				"in-base-unit": {
+					"multiplier": 58.47, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Siriometer", 
+				"in-base-unit": {
+					"multiplier": 9.223372036854776e+16, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Spat", 
+				"in-base-unit": {
+					"multiplier": 1000000000000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Beard-second", 
+				"in-base-unit": {
+					"multiplier": 5e-09, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Toise", 
+				"symbol": ["T"],
+				"in-base-unit": {
+					"multiplier": 1.949, 
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Thousandth of an inch", 
+				"symbol": ["mil"],
+				"in-base-unit": {
+					"multiplier": 0.0000254, 
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Picometre", 
+				"symbol": ["pm"],
+				"in-base-unit": {
+					"multiplier": 1e-12, 
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Nanometre", 
+				"symbol": ["nm"],
+				"in-base-unit": {
+					"multiplier": 1e-9, 
+					"zero-point": 0
+				}
+			}
+		]
 	}
-	
 }
