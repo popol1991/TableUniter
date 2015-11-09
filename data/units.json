@@ -133,7 +133,7 @@
 			},
 			{
 				"name": "Square kilometer",
-				"symbol": ["km^2"],
+				"symbol": ["km²"],
 				"in-base-unit": {
 					 "multiplier": 1000000.00,
 					 "zero-point": 0
@@ -141,7 +141,7 @@
 			},
 			{
 				"name": "Square mile",
-				"symbol": ["sq mi", "mi^2"],
+				"symbol": ["sq mi", "mi²"],
 				"in-base-unit": {
 					 "multiplier": 2589988.11034,
 					 "zero-point": 0
@@ -149,7 +149,7 @@
 			},
 			{
 				"name": "Square foot",
-				"symbol": ["sq ft", "ft^2"],
+				"symbol": ["sq ft", "ft²"],
 				"in-base-unit": {
 					 "multiplier": 0.092903,
 					 "zero-point": 0
@@ -164,7 +164,7 @@
 			},
 			{
 				"name": "Square inch",
-				"symbol": ["square in", "sq inch", "sq inches", "sq in", "inch^2", "inches^2"],
+				"symbol": ["square in", "sq inch", "sq inches", "sq in", "inch²", "inches²"],
 				"in-base-unit": {
 					 "multiplier": 0.00064516,
 					 "zero-point": 0
@@ -180,7 +180,7 @@
 			},
 			{
 				"name": "Square meter",
-				"symbol": ["m^2"],
+				"symbol": ["m²"],
 				"in-base-unit": {
 					 "multiplier": 1,
 					 "zero-point": 0
@@ -225,7 +225,7 @@
 	},
 	"speed": {
 		"name": "Speed",
-		"base-uinit": "Metre per second",
+		"base-unit": "Metre per second",
 		"units": [
 			{
 				"name": "Speed of light",
@@ -378,6 +378,250 @@
 				}
 			}
 		]
-	}
+	},
+	"radioactivity": {
+		"name": "Radioactivity",
+		"base-unit": "Becquerel",
+		"units": [
+			{
+				"name": "Becquerel",
+				"symbol": ["Bq"],
+				"in-base-unit": {
+					"multiplier": 1.0,
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Curie",
+				"symbol": ["Ci"],
+				"in-base-unit": {
+					"multiplier": 37000000000.00,
+					"zero-point": 0
+				}
+			}
+		]
+	},
+	"viscosity": {
+		"name": "Viscosity",
+		"base-unit": "Pascal second",
+		"units": [
+			{
+				"name": "Pascal second",
+				"symbol": ["Pa·s"],
+				"in-base-unit": {
+					"multiplier": 1,
+					"zero-point": 0
+				}
+			}
+		]
+	},
+	"force-moment": {
+		"name": "Force Moment",
+		"base-unit": "Newton metre",
+		"units": [
+			{
+				"name": "Newton metre",
+				"symbol": ["N·m", "Nm"],
+				"in-base-unit": {
+					"multiplier": 1,
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Foot-pound",
+				"symbol": ["ft·lbf", "ft·lbf", "ft·lb"],
+				"in-base-unit": {
+					"multiplier": 1.35581795,
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Ounce-force inch",
+				"in-base-unit": {
+					"multiplier": 0.007061552,
+					"zero-point": 0
+				}
+			}
+		]
+	},
+	"surface-tension": {
+		"name": "Surface Tension",
+		"base-unit": "Newton per metre",
+		"units": [
+			{
+				"name": "Newton per metre",
+				"symbol": ["N/m"],
+				"in-base-unit": {
+					"multiplier": 1,
+					"zero-point": 0
+				}
+			}
+		]
+	},
+	"surface-density": {
+		"name": "Surface Density",
+		"base-unit": "Kilogram per square metre",
+		"units": [
+			{
+				"name": "Kilogram per square metre",
+				"symbol": ["kg/m²"],
+				"in-base-unit": {
+					"multiplier": 1,
+					"zero-point": 0
+				}
+			}
+		]
+	},
+	"specific-volume": {
+		"name": "Specific Volume",
+		"base-unit": "Cubic metre per kilogram",
+		"units": [
+			{
+				"name": "Cubic metre per kilogram",
+				"symbol": ["m³/kg"],
+				"in-base-unit": {
+					"multiplier": 1,
+					"zero-point": 0
+				}
+			}
+		]
+	},
+	"irradiance": {
+		"name": "Irradiance",
+		"base-unit": "Watt per square metre",
+		"units": [
+			{
+				"name": "Watt per square metre",
+				"symbol": ["W/m²"],
+				"in-base-unit": {
+					"multiplier": 1,
+					"zero-point": 0
+				}
+			}
+		]
+	},
+	"heat-capacity": {
+		"name": "Heat Capacity",
+		"base-unit": "Joule per kelvin",
+		"units": [
+			{
+				"name": "Joule per kelvin",
+				"symbol": ["J/K"],
+				"in-base-unit": {
+					"multiplier": 1,
+					"zero-point": 0
+				}
+			}
+		]
+	},
+	"charge": {
+		"name": "Charge",
+		"base-unit": "Coulomb",
+		"units": [
+			{
+				"name": "Coulomb",
+				"symbol": ["C"],
+				"in-base-unit": {
+					"multiplier": 1,
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Statcoulomb",
+				"symbol": ["statC", "Fr", "esu"],
+				"in-base-unit": {
+					"multiplier": 3.3356e-10,
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Elementary charge",
+				"symbol": ["e"],
+				"in-base-unit": {
+					"multiplier": 1.602176487e-19,
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Planck charge",
+				"symbol": ["qP"],
+				"in-base-unit": {
+					"multiplier": 1.8755459e-18,
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Abcoulomb",
+				"symbol": ["abC", "aC"],
+				"in-base-unit": {
+					"multiplier": 10,
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Ampere-hour",
+				"symbol": ["Ah", "AHr", "A·h," "A h"],
+				"in-base-unit": {
+					"multiplier": 3600,
+					"zero-point": 0
+				}
+			}
+		]
+	},
+	"force": {
+		"name": "Force",
+		"base-unit": "Newton",
+		"units": [
+			{
+				"name": "Newton",
+				"symbol": ["N"],
+				"in-base-unit": {
+					"multiplier": 1,
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Dyne",
+				"symbol": ["dyn"],
+				"in-base-unit": {
+					"multiplier": 0.00001,
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Pound",
+				"symbol": ["lb", "lbf", "lbf"],
+				"in-base-unit": {
+					"multiplier": 4.448222,
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Kilogram-force",
+				"symbol": ["kgf", "kgF", "kp"],
+				"in-base-unit": {
+					"multiplier": 9.80665,
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Poundal",
+				"symbol": ["pdl"],
+				"in-base-unit": {
+					"multiplier": 0.138254954376,
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "KiloNewton",
+				"symbol": ["kN"],
+				"in-base-unit": {
+					"multiplier": 1000,
+					"zero-point": 0
+				}
+			}
+		]
+	},
 	
+
 }
