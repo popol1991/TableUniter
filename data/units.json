@@ -104,280 +104,280 @@
 		]
 	},
 	"area": {
-        "name": "Area",
-        "base-unit": "Square Meters",
-        "units": [
-            {
-                "name": "Acre",
-                "symbol": ["acre"],
-                "in-base-unit": {
-                     "multiplier": 4046.8564224,
-                     "zero-point": 0
-                }
-            },
-            {
-                "name": "Hectare",
-                "symbol": ["ha"],
-                "in-base-unit": {
-                     "multiplier": 1000000,
-                     "zero-point": 0
-                }
-            },
-            {
-                "name": "Barn",
-                "symbol": ["b"],
-                "in-base-unit": {
-                     "multiplier": 1e-27,
-                     "zero-point": 0
-                }
-            },
-            {
-                "name": "Square kilometer",
-                "symbol": ["km^2"],
-                "in-base-unit": {
-                     "multiplier": 1000000.00,
-                     "zero-point": 0
-                }
-            },
-            {
-                "name": "Square mile",
-                "symbol": ["sq mi", "mi^2"],
-                "in-base-unit": {
-                     "multiplier": 2589988.11034,
-                     "zero-point": 0
-                }
-            },
-            {
-                "name": "Square foot",
-                "symbol": ["sq ft", "ft^2"],
-                "in-base-unit": {
-                     "multiplier": 0.092903,
-                     "zero-point": 0
-                }
-            },
-            {
-                "name": "Section",
-                "in-base-unit": {
-                     "multiplier": 2589988.11034,
-                     "zero-point": 0
-                }
-            },
-            {
-                "name": "Square inch",
-                "symbol": ["square in", "sq inch", "sq inches", "sq in", "inch^2", "inches^2"],
-                "in-base-unit": {
-                     "multiplier": 0.00064516,
-                     "zero-point": 0
-                }
-            },
-            {
-                "name": "Square yard",
-                "symbol": ["square yards", "square yard", "square yds", "square yd", "sq yds", "sq yd"],
-                "in-base-unit": {
-                     "multiplier": 0.83612736,
-                     "zero-point": 0
-                }
-            },
-            {
-                "name": "Square meter",
-                "symbol": ["m^2"],
-                "in-base-unit": {
-                     "multiplier": 1,
-                     "zero-point": 0
-                }
-            },
-            {
-                "name": "US survey acre",
-                "in-base-unit": {
-                     "multiplier": 4046.87261,
-                     "zero-point": 0
-                }
-           },
-            {
-                "name": "Iraqi dunam",
-                "in-base-unit": {
-                     "multiplier": 2500,
-                     "zero-point": 0
-                }
-            },
-            {
-                "name": "Metric dunam",
-                "in-base-unit": {
-                     "multiplier": 1000,
-                     "zero-point": 0
-                }
-            },
-            {
-                "name": "Old dunam",
-                "in-base-unit": {
-                     "multiplier": 919.3,
-                     "zero-point": 0
-                }
-            },
-            {
-                "name": "Cypriot dunam",
-                "in-base-unit": {
-                     "multiplier":1337.803776,
-                     "zero-point": 0
-                }
-            }
-        ]
-    },
+		"name": "Area",
+		"base-unit": "Square Meters",
+		"units": [
+			{
+				"name": "Acre",
+				"symbol": ["acre"],
+				"in-base-unit": {
+					 "multiplier": 4046.8564224,
+					 "zero-point": 0
+				}
+			},
+			{
+				"name": "Hectare",
+				"symbol": ["ha"],
+				"in-base-unit": {
+					 "multiplier": 1000000,
+					 "zero-point": 0
+				}
+			},
+			{
+				"name": "Barn",
+				"symbol": ["b"],
+				"in-base-unit": {
+					 "multiplier": 1e-27,
+					 "zero-point": 0
+				}
+			},
+			{
+				"name": "Square kilometer",
+				"symbol": ["km^2"],
+				"in-base-unit": {
+					 "multiplier": 1000000.00,
+					 "zero-point": 0
+				}
+			},
+			{
+				"name": "Square mile",
+				"symbol": ["sq mi", "mi^2"],
+				"in-base-unit": {
+					 "multiplier": 2589988.11034,
+					 "zero-point": 0
+				}
+			},
+			{
+				"name": "Square foot",
+				"symbol": ["sq ft", "ft^2"],
+				"in-base-unit": {
+					 "multiplier": 0.092903,
+					 "zero-point": 0
+				}
+			},
+			{
+				"name": "Section",
+				"in-base-unit": {
+					 "multiplier": 2589988.11034,
+					 "zero-point": 0
+				}
+			},
+			{
+				"name": "Square inch",
+				"symbol": ["square in", "sq inch", "sq inches", "sq in", "inch^2", "inches^2"],
+				"in-base-unit": {
+					 "multiplier": 0.00064516,
+					 "zero-point": 0
+				}
+			},
+			{
+				"name": "Square yard",
+				"symbol": ["square yards", "square yard", "square yds", "square yd", "sq yds", "sq yd"],
+				"in-base-unit": {
+					 "multiplier": 0.83612736,
+					 "zero-point": 0
+				}
+			},
+			{
+				"name": "Square meter",
+				"symbol": ["m^2"],
+				"in-base-unit": {
+					 "multiplier": 1,
+					 "zero-point": 0
+				}
+			},
+			{
+				"name": "US survey acre",
+				"in-base-unit": {
+					 "multiplier": 4046.87261,
+					 "zero-point": 0
+				}
+		   },
+			{
+				"name": "Iraqi dunam",
+				"in-base-unit": {
+					 "multiplier": 2500,
+					 "zero-point": 0
+				}
+			},
+			{
+				"name": "Metric dunam",
+				"in-base-unit": {
+					 "multiplier": 1000,
+					 "zero-point": 0
+				}
+			},
+			{
+				"name": "Old dunam",
+				"in-base-unit": {
+					 "multiplier": 919.3,
+					 "zero-point": 0
+				}
+			},
+			{
+				"name": "Cypriot dunam",
+				"in-base-unit": {
+					 "multiplier":1337.803776,
+					 "zero-point": 0
+				}
+			}
+		]
+	},
 	"speed": {
-        "name": "Speed",
-        "base-uinit": "Metre per second",
-        "units": [
-            {
-                "name": "Speed of light",
-                "symbol": ["c"],
-                "in-base-unit": {
-                    "multiplier": 299792458.00,
-                    "zero-point": 0
-                }
-            },
-            {
-                "name": "Metre per second",
-                "symbol": ["m/s"],
-                "in-base-unit": {
-                    "multiplier": 1,
-                    "zero-point": 0
-                }
-            },
-            {
-                "name": "Speed of sound",
-                "in-base-unit": {
-                    "multiplier": 343,
-                    "zero-point": 0
-                }
-            },
-            {
-                "name": "Miles per hour",
-                "symbol": ["MPH", "mph", "mi/h"],
-                "in-base-unit": {
-                    "multiplier": 0.44704,
-                    "zero-point": 0
-                }
-            },
-            {
-                "name": "Knot",
-                "symbol": ["kn"],
-                "in-base-unit": {
-                    "multiplier": 0.514444444,
-                    "zero-point": 0
-                }
-            },
-            {
-                "name": "Kilometres per hour",
-                "symbol": ["km/h", "kph"],
-                "in-base-unit": {
-                    "multiplier": 0.27778,
-                    "zero-point": 0
-                }
-            },
-            {
-                "name": "Kilometres per second",
-                "symbol": ["km/sec"],
-                "in-base-unit": {
-                    "multiplier": 1000,
-                    "zero-point": 0
-                }
-            },
-            {
-                "name": "Centimetre per second",
-                "symbol": ["cm/sec"],
-                "in-base-unit": {
-                    "multiplier": 0.01,
-                    "zero-point": 0
-                }
-            }
-        ]
-    },
-    "electronic-current": {
-        "name": "Electronic Current",
-        "base-unit": "Ampere",
-        "units": [
-            {
-                "name": "Ampere",
-                "symbol": ["A"],
-                "in-base-unit": {
-                    "multiplier": 1,
-                    "zero-point": 0
-                }
-            },
-            {
-                "name": "Planck current",
-                "symbol": ["IP"],
-                "in-base-unit": {
-                    "multiplier": 3.479e+25,
-                    "zero-point": 0
-                }
-            },
-            {
-                "name": "Abampere",
-                "symbol": ["aA"],
-                "in-base-unit": {
-                    "multiplier": 10.00,
-                    "zero-point": 0
-                }
-            },
-        ]
-    },
-    "density": {
-        "name": "Density",
-        "base-unit": "Kilogram per cubic meter",
-        "units": [
-            {
-                "name": "Kilogram per cubic metre",
-                "symbol": ["kg·m"],
-                "in-base-unit": {
-                    "multiplier": 1,
-                    "zero-point": 0
-                }
-            },
-            {
-                "name": "Gram per cubic centimeter",
-                "in-base-unit": {
-                    "multiplier": 1000,
-                    "zero-point": 0
-                }
-            }
-        ]
-    },
-    "magnetic-flux": {
-        "name": "Magnetic Flux",
-        "base-unit": "Weber",
-        "units": [
-            {
-                "name": "Gram per cubic centimeter",
-                "symbol": ["Wb"],
-                "in-base-unit": {
-                    "multiplier": 1.0,
-                    "zero-point": 0
-                }
-            }
-        ]
-    },
-    "magnetic-flux-density": {
-        "name": "Magnetic Flux Density",
-        "base-unit": "Tesla",
-        "units": [
-            {
-                "name": "Gauss",
-                "symbol": ["G", "Gs"],
-                "in-base-unit": {
-                    "multiplier": 0.0001,
-                    "zero-point": 0
-                }
-            },
-            {
-                "name": "Tesla",
-                "symbol": ["T", "B"],
-                "in-base-unit": {
-                    "multiplier": 1,
-                    "zero-point": 0
-                }
-            }
-        ]
-    }
+		"name": "Speed",
+		"base-uinit": "Metre per second",
+		"units": [
+			{
+				"name": "Speed of light",
+				"symbol": ["c"],
+				"in-base-unit": {
+					"multiplier": 299792458.00,
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Metre per second",
+				"symbol": ["m/s"],
+				"in-base-unit": {
+					"multiplier": 1,
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Speed of sound",
+				"in-base-unit": {
+					"multiplier": 343,
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Miles per hour",
+				"symbol": ["MPH", "mph", "mi/h"],
+				"in-base-unit": {
+					"multiplier": 0.44704,
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Knot",
+				"symbol": ["kn"],
+				"in-base-unit": {
+					"multiplier": 0.514444444,
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Kilometres per hour",
+				"symbol": ["km/h", "kph"],
+				"in-base-unit": {
+					"multiplier": 0.27778,
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Kilometres per second",
+				"symbol": ["km/sec"],
+				"in-base-unit": {
+					"multiplier": 1000,
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Centimetre per second",
+				"symbol": ["cm/sec"],
+				"in-base-unit": {
+					"multiplier": 0.01,
+					"zero-point": 0
+				}
+			}
+		]
+	},
+	"electronic-current": {
+		"name": "Electronic Current",
+		"base-unit": "Ampere",
+		"units": [
+			{
+				"name": "Ampere",
+				"symbol": ["A"],
+				"in-base-unit": {
+					"multiplier": 1,
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Planck current",
+				"symbol": ["IP"],
+				"in-base-unit": {
+					"multiplier": 3.479e+25,
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Abampere",
+				"symbol": ["aA"],
+				"in-base-unit": {
+					"multiplier": 10.00,
+					"zero-point": 0
+				}
+			},
+		]
+	},
+	"density": {
+		"name": "Density",
+		"base-unit": "Kilogram per cubic meter",
+		"units": [
+			{
+				"name": "Kilogram per cubic metre",
+				"symbol": ["kg·m"],
+				"in-base-unit": {
+					"multiplier": 1,
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Gram per cubic centimeter",
+				"in-base-unit": {
+					"multiplier": 1000,
+					"zero-point": 0
+				}
+			}
+		]
+	},
+	"magnetic-flux": {
+		"name": "Magnetic Flux",
+		"base-unit": "Weber",
+		"units": [
+			{
+				"name": "Gram per cubic centimeter",
+				"symbol": ["Wb"],
+				"in-base-unit": {
+					"multiplier": 1.0,
+					"zero-point": 0
+				}
+			}
+		]
+	},
+	"magnetic-flux-density": {
+		"name": "Magnetic Flux Density",
+		"base-unit": "Tesla",
+		"units": [
+			{
+				"name": "Gauss",
+				"symbol": ["G", "Gs"],
+				"in-base-unit": {
+					"multiplier": 0.0001,
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Tesla",
+				"symbol": ["T", "B"],
+				"in-base-unit": {
+					"multiplier": 1,
+					"zero-point": 0
+				}
+			}
+		]
+	}
 	
 }
