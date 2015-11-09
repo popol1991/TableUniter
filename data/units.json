@@ -706,6 +706,163 @@
 				}
 			}
 		]
+	},
+	"pressure": {
+		"name": "Pressure", 
+		"base-unit": "Pascal", 
+		"units": [
+			{
+				"name": "Pound-force per square inch", 
+				"symbol": ["psi"", lbf/in²", "lbf/in²"],
+				"in-base-unit": {
+					"multiplier": 6894.75729, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Torr", 
+				"symbol": ["Torr"],
+				"in-base-unit": {
+					"multiplier": 133.3223684, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Pascal",
+				"symbol": ["Pa"], 
+				"in-base-unit": {
+					"multiplier": 1.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Bar", 
+				"symbol": ["bar"],
+				"in-base-unit": {
+					"multiplier": 100000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Atmosphere", 
+				"symbol": ["atm"],
+				"in-base-unit": {
+					"multiplier": 101325.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Centimetre of water", 
+				"symbol": ["cmH2O", "cm H2O"],
+				"in-base-unit": {
+					"multiplier": 98.0638, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Copper units of pressure", 
+				"symbol": ["CUP"],
+				"in-base-unit": {
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Barye",
+				"symbol": ["Ba", "barad", "barrie", "bary", "baryd", "baryed", "barie"], 
+				"in-base-unit": {
+					"multiplier": 0.1, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Pièze", 
+				"symbol": ["pz"],
+				"in-base-unit": {
+					"multiplier": 1000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Technical atmosphere", 
+				"symbol": ["at"],
+				"in-base-unit": {
+					"multiplier": 98066.5, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Inch of mercury", 
+				"symbol": ["inHg"],
+				"in-base-unit": {
+					"multiplier": 3386.389, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Decibars", 
+				"symbol": ["dbar"],
+				"in-base-unit": {
+					"multiplier": 10000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Kilogram-force per square centimetre", 
+				"symbol": ["kgf/cm"],
+				"in-base-unit": {
+					"multiplier": 98066.5, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Megapascal", 
+				"symbol": ["Mpa"],
+				"in-base-unit": {
+					"multiplier": 1000000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Millibar", 
+				"symbol": ["mbar", "mb"],
+				"in-base-unit": {
+					"multiplier": 100.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Gigapascal",
+				"symbol": ["Gpa"], 
+				"in-base-unit": {
+					"multiplier": 1000000000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "KiloNewton per metre squared", 
+				"symbol": ["kN/m²"],
+				"in-base-unit": {
+					"multiplier": 1000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Kilopound-force per square inch", 
+				"symbol": ["psi", "lbf/in²", "lb_f/in²", "lb_f/sq in", "lbf/sq in"],
+				"in-base-unit": {
+					"multiplier": 6894757.29, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Kilopascal",
+				"symbol": ["kN/m²"], 
+				"in-base-unit": {
+					"multiplier": 1000.0, 
+					"zero-point": 0
+				}
+			}
+		]
 	}
 	
 }
