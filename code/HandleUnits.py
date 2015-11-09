@@ -2,12 +2,15 @@ import collections
 import json
 import sys
 
+
 nn = sys.argv[1]  # unit name
 bu = sys.argv[2]  # unit base-unit
+infile = sys.argv[3]   # input file
+outfile = sys.argv[4]  # output file
 
-fout = open('power2.json', 'w')
+fout = open(outfile, 'w')
 
-with open('power.json') as json_file:
+with open(infile) as json_file:
     data = json.load(json_file)
     collection_list = data['results']['collection1']
     l = len(collection_list)
@@ -18,8 +21,15 @@ with open('power.json') as json_file:
         names.append(name)
 
         num = collection_list[i]['multiplier']
+        if num == '':
+            multiplier = -1
+        else:
+            num = num.replace(',', '')
+            try:
+                multiplier = float(num)
+            except ValueError, e:
+                print 'error'+ num + 'error'
 
-        multiplier = float(num.replace(',', ''))
         multipliers.append(multiplier)
 
     a = collections.OrderedDict()
@@ -34,7 +44,8 @@ with open('power.json') as json_file:
         c['name'] = names[j]
 
         d = collections.OrderedDict()
-        d['multiplier'] = multipliers[j]
+        if multipliers[j] != -1:
+            d['multiplier'] = multipliers[j]
         d['zero-point'] = 0
 
         c['in-base-unit'] = d
@@ -43,6 +54,6 @@ with open('power.json') as json_file:
 
     a['units'] = b
 
-    json.dump(a, fout, indent=4)
+    json.dump(a, fout, indent=4, encoding="utf-8")
 
 
