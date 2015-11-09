@@ -863,6 +863,287 @@
 				}
 			}
 		]
+	},
+	"mass": {
+		"name": "Mass", 
+		"base-unit": "Kilogram", 
+		"units": [
+			{
+				"name": "Carat", 
+				"symbol": ["ct"], 
+				"in-base-unit": {
+					"multiplier": 0.0002, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Kilogram",
+				"symbol": ["kg"],  
+				"in-base-unit": {
+					"multiplier": 1.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Pound", 
+				"symbol": ["lb", "lbm", "℔" ], 
+				"in-base-unit": {
+					"multiplier": 0.45359237, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Tonne",
+				"symbol": ["t"], 
+				"in-base-unit": {
+					"multiplier": 1000.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Atomic mass unit", 
+				"symbol": ["u", "Da"],
+				"in-base-unit": {
+					"multiplier": 1.660538782e-27, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Tael", 
+				"in-base-unit": {
+					"multiplier": 0.03779936375, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Grain", 
+				"in-base-unit": {
+					"multiplier": 6.479891e-05, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Planck mass", 
+				"symbol": ["mP"],
+				"in-base-unit": {
+					"multiplier": 2.17645e-08, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Solar mass", 
+				"symbol": ["M☉"],
+				"in-base-unit": {
+					"multiplier": 1.9891e+30, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Ounce", 
+				"symbol": ["oz"],
+				"in-base-unit": {
+					"multiplier": 0.028349523125, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Pennyweight",
+				"symbol": ["dwt"], 
+				"in-base-unit": {
+					"multiplier": 0.00155517384, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Long ton", 
+				"in-base-unit": {
+					"multiplier": 1016.0469088, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Hundredweight",
+				"symbol": ["cwt"],  
+				"in-base-unit": {
+					"multiplier": 50.80234544, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Short ton", 
+				"in-base-unit": {
+					"multiplier": 907.18474, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Stone", 
+				"symbol": ["st"], 
+				"in-base-unit": {
+					"multiplier": 6.35029318, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Dram", 
+				"symbol": ["ℨ"], 
+				"in-base-unit": {
+					"multiplier": 0.001771845, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Catty", 
+				"symbol": ["斤"],
+				"in-base-unit": {
+					"multiplier": 0.60478982, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Candareen", 
+				"symbol": ["分"],
+				"in-base-unit": {
+					"multiplier": 0.0003779936375, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Mace", 
+				"in-base-unit": {
+					"multiplier": 0.003779936375, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Grave", 
+				"in-base-unit": {
+					"multiplier": 1.0, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Milligram", 
+				"symbol": ["mg"],
+				"in-base-unit": {
+					"multiplier": 1e-06, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Gram",
+				"symbol": ["g"], 
+				"in-base-unit": {
+					"multiplier": 0.001, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Microgram", 
+				"symbol": ["µg"],
+				"in-base-unit": {
+					"multiplier": 1e-09, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Picul", 
+				"in-base-unit": {
+					"multiplier": 60.478982, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cash", 
+				"in-base-unit": {
+					"multiplier": 3.779936375e-06, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Stone", 
+				"symbol": ["石"],
+				"in-base-unit": {
+					"multiplier": 6.35, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Jupiter mass", 
+				"symbol": ["MJ", "MJUP"],
+				"in-base-unit": {
+					"multiplier": 1.8986e+27, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Long quarter", 
+				"in-base-unit": {
+					"multiplier": 12.70058636, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Cental", 
+				"in-base-unit": {
+					"multiplier": 45.359237, 
+					"zero-point": 0
+				}
+			}, 
+			{
+				"name": "Troy ounce", 
+				"symbol": ["oz t"],
+				"in-base-unit": {
+					"multiplier": 0.0311034768, 
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Troy pound", 
+				"in-base-unit": {
+					"multiplier": 0.3732417216, 
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Electron rest mass", 
+				"symbol": ["m_e"],
+				"in-base-unit": {
+					"multiplier": 9.1093826e-31, 
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Short quarter", 
+				"in-base-unit": {
+					"multiplier": 11.33980925, 
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Earth mass", 
+				"symbol": ["M⊕"],
+				"in-base-unit": {
+					"multiplier": 5.9736e+28, 
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "Planetary mass", 
+				"in-base-unit": {
+					"multiplier": 7.3477e+22, 
+					"zero-point": 0
+				}
+			},
+			{
+				"name": "MeV/c²", 
+				"symbol": ["MeV/c²"],
+				"in-base-unit": {
+					"multiplier": 1.604396e-27, 
+					"zero-point": 0
+				}
+			}
+		]
 	}
 	
 }
