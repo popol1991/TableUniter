@@ -319,7 +319,7 @@
 					"multiplier": 10.00,
 					"zero-point": 0
 				}
-			},
+			}
 		]
 	},
 	"density": {
@@ -560,7 +560,7 @@
 			},
 			{
 				"name": "Ampere-hour",
-				"symbol": ["Ah", "AHr", "A·h," "A h"],
+				"symbol": ["Ah", "AHr", "A·h,", "A h"],
 				"in-base-unit": {
 					"multiplier": 3600,
 					"zero-point": 0
@@ -713,7 +713,7 @@
 		"units": [
 			{
 				"name": "Pound-force per square inch", 
-				"symbol": ["psi"", lbf/in²", "lbf/in²"],
+				"symbol": ["psi", "lbf/in²", "lbf/in²"],
 				"in-base-unit": {
 					"multiplier": 6894.75729, 
 					"zero-point": 0
