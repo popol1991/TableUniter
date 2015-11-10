@@ -13,7 +13,7 @@
 			},
 			{
 				"name": "Calorie",
-				"symbol": "cal",
+				"symbol": ["cal"],
 				"in-base-unit": {
 					"multiplier": 4.184,
 					"zero-point": 0
@@ -29,7 +29,7 @@
 			},
 			{
 				"name": "Joule",
-				"symbol": "J",
+				"symbol": ["J"],
 				"in-base-unit": {
 					"multiplier": 1,
 					"zero-point": 0
@@ -51,7 +51,7 @@
 		"units": [
 			{
 				"name": "Candela",
-				"symbol": "cd",
+				"symbol": ["cd"],
 				"in-base-unit": {
 					"multiplier": 1,
 					"zero-point": 0
@@ -65,7 +65,7 @@
 		"units": [
 			{
 				"name": "Lumen",
-				"symbol": "lm",
+				"symbol": ["lm"],
 				"in-base-unit": {
 					"multiplier": 1,
 					"zero-point": 0
@@ -79,7 +79,7 @@
 		"units": [
 			{
 				"name": "Degree Celsius",
-				"symbol": "°C",
+				"symbol": ["°C"],
 				"in-base-unit": {
 					"multiplier": 1,
 					"zero-point": 273.15
@@ -87,15 +87,15 @@
 			},
 			{
 				"name": "Degree Fahrenheit",
-				"symbol": "°F",
+				"symbol": ["°F"],
 				"in-base-unit": {
 					"multiplier": 0.555555555,
-					"zero-point": 255.3722222,
+					"zero-point": 255.3722222
 				}
 			},
 			{
 				"name": "Kelvin",
-				"symbol": "K",
+				"symbol": ["K"],
 				"in-base-unit": {
 					"multiplier": 1,
 					"zero-point": 0
